@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Edit Task</string>
+    <string name="etTitle">Title</string>
+    <string name="etDate">Date</string>
+    <string name="etTime">Time</string>
+    <string name="tvPriority">Priority:</string>
+    <string name="rbHigh">High</string>
+    <string name="rbMedium">Medium</string>
+    <string name="rbLow">Low</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonDelete">Save</string>
+    <string name="buttonEdit">Save</string>
+    <string name="buttonNext">Save</string>
+    <string name="buttonFirst">Save</string>
+    <string name="buttonPrevious">Save</string>
+    <string name="buttonLast">Save</string>
+    <string name="buttonAdd">Add</string>
+
+
+</resources>
